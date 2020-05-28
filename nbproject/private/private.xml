@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Reem%20Tarek/Desktop/SyntaxAnalyzer/src/syntaxanalyzer/Rule11.java</file>
+            <file>file:/C:/Users/Reem%20Tarek/Desktop/SyntaxAnalyzer/src/syntaxanalyzer/Rule_expr_dash.java</file>
+            <file>file:/C:/Users/Reem%20Tarek/Desktop/SyntaxAnalyzer/src/syntaxanalyzer/Rule17.java</file>
+            <file>file:/C:/Users/Reem%20Tarek/Desktop/SyntaxAnalyzer/src/syntaxanalyzer/Token.java</file>
+            <file>file:/C:/Users/Reem%20Tarek/Desktop/SyntaxAnalyzer/src/syntaxanalyzer/Rule42.java</file>
+            <file>file:/C:/Users/Reem%20Tarek/Desktop/SyntaxAnalyzer/src/syntaxanalyzer/Rule14.java</file>
+            <file>file:/C:/Users/Reem%20Tarek/Desktop/SyntaxAnalyzer/src/syntaxanalyzer/Rule22.java</file>
+            <file>file:/C:/Users/Reem%20Tarek/Desktop/SyntaxAnalyzer/src/syntaxanalyzer/Rule9.java</file>
+            <file>file:/C:/Users/Reem%20Tarek/Desktop/SyntaxAnalyzer/src/syntaxanalyzer/Parser.java</file>
+            <file>file:/C:/Users/Reem%20Tarek/Desktop/SyntaxAnalyzer/src/syntaxanalyzer/Rule39.java</file>
+            <file>file:/C:/Users/Reem%20Tarek/Desktop/SyntaxAnalyzer/src/syntaxanalyzer/Rule1.java</file>
+            <file>file:/C:/Users/Reem%20Tarek/Desktop/SyntaxAnalyzer/src/syntaxanalyzer/Rule31.java</file>
+            <file>file:/C:/Users/Reem%20Tarek/Desktop/SyntaxAnalyzer/src/syntaxanalyzer/Rule33.java</file>
+            <file>file:/C:/Users/Reem%20Tarek/Desktop/SyntaxAnalyzer/src/syntaxanalyzer/Node.java</file>
+            <file>file:/C:/Users/Reem%20Tarek/Desktop/SyntaxAnalyzer/src/syntaxanalyzer/Rule3.java</file>
+            <file>file:/C:/Users/Reem%20Tarek/Desktop/SyntaxAnalyzer/src/syntaxanalyzer/Rule25.java</file>
+            <file>file:/C:/Users/Reem%20Tarek/Desktop/SyntaxAnalyzer/src/syntaxanalyzer/Rule28.java</file>
+            <file>file:/C:/Users/Reem%20Tarek/Desktop/SyntaxAnalyzer/src/syntaxanalyzer/Rule20.java</file>
+            <file>file:/C:/Users/Reem%20Tarek/Desktop/SyntaxAnalyzer/src/syntaxanalyzer/Rule41.java</file>
+            <file>file:/C:/Users/Reem%20Tarek/Desktop/SyntaxAnalyzer/src/syntaxanalyzer/Rule26.java</file>
+            <file>file:/C:/Users/Reem%20Tarek/Desktop/SyntaxAnalyzer/src/syntaxanalyzer/Rule45.java</file>
+            <file>file:/C:/Users/Reem%20Tarek/Desktop/SyntaxAnalyzer/src/syntaxanalyzer/Rule29.java</file>
+            <file>file:/C:/Users/Reem%20Tarek/Desktop/SyntaxAnalyzer/src/syntaxanalyzer/Rule37.java</file>
+            <file>file:/C:/Users/Reem%20Tarek/Desktop/SyntaxAnalyzer/src/syntaxanalyzer/Rule2.java</file>
+            <file>file:/C:/Users/Reem%20Tarek/Desktop/SyntaxAnalyzer/src/syntaxanalyzer/Rule35.java</file>
+            <file>file:/C:/Users/Reem%20Tarek/Desktop/SyntaxAnalyzer/src/syntaxanalyzer/Rule5.java</file>
+            <file>file:/C:/Users/Reem%20Tarek/Desktop/SyntaxAnalyzer/src/syntaxanalyzer/Rule43.java</file>
+            <file>file:/C:/Users/Reem%20Tarek/Desktop/SyntaxAnalyzer/src/syntaxanalyzer/Rule46.java</file>
+            <file>file:/C:/Users/Reem%20Tarek/Desktop/SyntaxAnalyzer/src/syntaxanalyzer/SyntaxAnalyzer.java</file>
+            <file>file:/C:/Users/Reem%20Tarek/Desktop/SyntaxAnalyzer/src/syntaxanalyzer/Rule18.java</file>
+            <file>file:/C:/Users/Reem%20Tarek/Desktop/SyntaxAnalyzer/src/syntaxanalyzer/Rule8.java</file>
+            <file>file:/C:/Users/Reem%20Tarek/Desktop/SyntaxAnalyzer/src/syntaxanalyzer/Rule15.java</file>
+            <file>file:/C:/Users/Reem%20Tarek/Desktop/SyntaxAnalyzer/src/syntaxanalyzer/Rule12.java</file>
+            <file>file:/C:/Users/Reem%20Tarek/Desktop/SyntaxAnalyzer/src/syntaxanalyzer/Rule44.java</file>
+            <file>file:/C:/Users/Reem%20Tarek/Desktop/SyntaxAnalyzer/src/syntaxanalyzer/Rule19.java</file>
+            <file>file:/C:/Users/Reem%20Tarek/Desktop/SyntaxAnalyzer/src/syntaxanalyzer/Rule10.java</file>
+            <file>file:/C:/Users/Reem%20Tarek/Desktop/SyntaxAnalyzer/src/syntaxanalyzer/Rule4.java</file>
+            <file>file:/C:/Users/Reem%20Tarek/Desktop/SyntaxAnalyzer/src/syntaxanalyzer/Rule27.java</file>
+            <file>file:/C:/Users/Reem%20Tarek/Desktop/SyntaxAnalyzer/src/syntaxanalyzer/AmbiguityRemoving.java</file>
+            <file>file:/C:/Users/Reem%20Tarek/Desktop/SyntaxAnalyzer/src/syntaxanalyzer/Rule_expr.java</file>
+            <file>file:/C:/Users/Reem%20Tarek/Desktop/SyntaxAnalyzer/src/syntaxanalyzer/Rule21.java</file>
+            <file>file:/C:/Users/Reem%20Tarek/Desktop/SyntaxAnalyzer/src/syntaxanalyzer/Rule40.java</file>
+            <file>file:/C:/Users/Reem%20Tarek/Desktop/SyntaxAnalyzer/src/syntaxanalyzer/Rule16.java</file>
+            <file>file:/C:/Users/Reem%20Tarek/Desktop/SyntaxAnalyzer/src/syntaxanalyzer/Rule24.java</file>
+        </group>
+    </open-files>
+</project-private>
